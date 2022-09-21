@@ -1,0 +1,10 @@
+# -*- coding: utf-8 -*-
+*.pyc
+.idea
+*.iws
+*.iml
+*.ipr
+/.scannerwork/.sonar_lock
+/venv/Scripts/
+__pycache__
+.git
